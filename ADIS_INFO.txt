@@ -1,0 +1,7 @@
+This is Angular course on:
+https://angular.io/docs/ts/latest/tutorial/
+
+
+I have come to 
+https://angular.io/docs/ts/latest/tutorial/toh-pt2.html
+Selecting a Hero (here you should continue)
