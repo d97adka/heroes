@@ -5,3 +5,7 @@ https://angular.io/docs/ts/latest/tutorial/
 I have come to 
 https://angular.io/docs/ts/latest/tutorial/toh-pt2.html
 Selecting a Hero (here you should continue)
+
+I have com to
+https://angular.io/docs/ts/latest/tutorial/toh-pt4.html
+You should continue here.
