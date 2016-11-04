@@ -1,0 +1,22 @@
+Two way binding
+<input [(ngModel)]="hero.name" placeholder="name">
+
+Multi-line template with `:
+template:`
+  <h1>{{title}}</h1>
+  <h2>{{hero.name}} details!</h2>
+  `
+
+systemjs.config.js provides information to a module loader about where to find application modules, and registers all the necessary packages
+'npm:': 'node_modules/'
+app: 'app', // our app is within the app folder
+// angular bundles
+'@angular/core': 'npm:@angular/core/bundles/core.umd.js',
+'@angular/common': 'npm:@angular/common/bundles/common.umd.js',
+etc
+
+Event bidning
+<li *ngFor="let hero of heroes" (click)="onSelect(hero)">
+
+Async calls
+A Promise is a promise to call us back later when the results are ready. We ask an asynchronous service to do some work and give it a callback function. It does that work (somewhere) and eventually it calls our function with the results of the work or an error.

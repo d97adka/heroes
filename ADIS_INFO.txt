@@ -3,9 +3,13 @@ https://angular.io/docs/ts/latest/tutorial/
 
 
 I have come to 
-https://angular.io/docs/ts/latest/tutorial/toh-pt2.html
-Selecting a Hero (here you should continue)
-
-I have com to
-https://angular.io/docs/ts/latest/tutorial/toh-pt4.html
+https://angular.io/docs/ts/latest/tutorial/toh-pt5.html
 You should continue here.
+
+
+
+Links
+Git: http://rogerdudler.github.io/git-guide/
+
+Gulp: https://css-tricks.com/gulp-for-beginners/
+
